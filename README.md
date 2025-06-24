@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haoo_</h1>
-<h3 align="center">A Year 2 CS student</h3>
+<h3 align="center">A Year 3 CS student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haoo04&label=Profile%20views&color=0e75b6&style=flat" alt="haoo04" /> </p>
 
