@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **UTAR kampar**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Backend development & Web 3.0 development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
