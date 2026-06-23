@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haoo_</h1>
-<h3 align="center">A Year 3 CS student</h3>
+<h3 align="center">Fresh CS Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haoo04&label=Profile%20views&color=0e75b6&style=flat" alt="haoo04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haoo04" alt="haoo04" /></a> </p>
-
-- 🔭 I’m currently studying on **UTAR Kampar**
 
 - 🌱 I’m currently learning **Backend development & Web 3.0 development**
 
